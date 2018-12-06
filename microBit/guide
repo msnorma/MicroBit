@@ -12,4 +12,6 @@ Take note of the following peripheral under Tools:
  Softdevice: "S110"
  Programmer: "USBTinyISP" 
 
-Before you upload your code do download the "Microbit BTLE Adv Demo" HEX file and drag it onto the microBitdrive. 
+Before you upload your code do download the "Microbit BTLE Adv Demo" HEX file and drag it onto the microBitdrive.
+
+Visit this link for datasheet: microbit.org/guide/hardware/pins 
