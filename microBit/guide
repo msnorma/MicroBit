@@ -8,9 +8,9 @@ Click on the tools tab as you would when selecting your board type and navigate 
 
 Once your installation is done, copy "Blink LED" code and paste it onto your sketch.
 Take note of the following peripheral under Tools:
- Board is on: "BBC-Micro:Bit" 
- Softdevice: "S110"
- Programmer: "USBTinyISP" 
+  Board is on: "BBC-Micro:Bit" 
+  Softdevice: "S110"
+  Programmer: "USBTinyISP" 
 
 Before you upload your code do download the "Microbit BTLE Adv Demo" HEX file and drag it onto the microBitdrive.
 
